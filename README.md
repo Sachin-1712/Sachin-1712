@@ -1,6 +1,6 @@
 # 👋 Hi, I am Sachin!
 
-Learn more about me : [Portfolio](https://your-portfolio-link-here)<br>
+Learn more about me : [Portfolio]()<br>
 Computer Science Undergraduate (MEng/BSc) | Software Engineer | AI & Systems Enthusiast<br>
 
 🔹 I am a 3rd-year Computer Science student at the **University of Leeds (UK)**, pursuing an **Integrated Masters** (Predicted First)<br>
