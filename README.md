@@ -7,7 +7,7 @@ Computer Science Undergraduate (MEng/BSc) | Software Engineer | AI & Systems Ent
 🔹 Passionate about **AI systems, full-stack development, backend engineering, and computer graphics**<br>
 🔹 Experienced in building **production-ready multi-agent AI systems** and scalable web platforms<br>
 🔹 Always exploring **agentic AI, system design, and low-level programming**<br>
-🔹 Fun fact: I’ve worked on **enterprise-grade AI automation** at KPMG and **industrial PLC systems** in real-world environments
+🔹 I’ve worked on **enterprise-grade AI automation** and **industrial PLC systems** in real-world environments
 
 ---
 
