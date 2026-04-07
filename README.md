@@ -4,7 +4,7 @@ Learn more about me : [Portfolio]()<br>
 Computer Science Undergraduate (MEng/BSc) | Software Engineer | AI & Systems Enthusiast<br>
 
 🔹 I am a 3rd-year Computer Science student at the **University of Leeds (UK)**, pursuing an **Integrated Masters**<br>
-🔹 Passionate about **AI systems, full-stack development, backend engineering, and computer graphics**<br>
+🔹 Passionate about **AI systems, full-stack development, backend engineering, and Agentic Worflows**<br>
 🔹 Experienced in building **production-ready multi-agent AI systems** and scalable web platforms<br>
 🔹 Always exploring **agentic AI, system design, and low-level programming**<br>
 🔹 I’ve worked on **enterprise-grade AI automation** and **industrial PLC systems** in real-world environments
