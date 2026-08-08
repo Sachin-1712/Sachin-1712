@@ -1,8 +1,8 @@
 # 👋 Hi, I am Sachin!
 
-Computer Science Undergraduate (MEng/BSc) | Software Engineer | AI & Systems Enthusiast<br>
+Computer Science Undergraduate (MEng/BSc) | Software Engineer | AI & Systems Enthusiast<br> [![Portfolio](https://portfolio-sachin-beryl.vercel.app/)
 
-🔹 I am a 3rd-year Computer Science student at the **University of Leeds (UK)**, pursuing an **Integrated Masters**<br>
+🔹 I am a 4th year Computer Science student at the **University of Leeds (UK)**, pursuing an **Integrated Masters**<br>
 🔹 Passionate about **AI systems, full-stack development, backend engineering, and Agentic Worflows**<br>
 🔹 Experienced in building **production-ready multi-agent AI systems** and scalable web platforms<br>
 🔹 Always exploring **agentic AI, system design, and low-level programming**<br>
